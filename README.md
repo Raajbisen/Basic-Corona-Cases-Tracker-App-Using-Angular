@@ -1,3 +1,8 @@
+You Just Need to add Node_Modules folder in it...
+
+
+
+
 # Covidapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
